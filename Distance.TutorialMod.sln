@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance.TutorialMod", "Distance.TutorialMod\Distance.TutorialMod.csproj", "{898E53C6-1EA7-4E71-AE7E-31000F1BA009}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Distance.TutorialMod.Content", "Distance.TutorialMod.Content\Distance.TutorialMod.Content.shproj", "{AE9EF2F0-CEDD-4B10-9773-43A4FE9473E0}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Distance.TutorialMod.Content\Distance.TutorialMod.Content.projitems*{ae9ef2f0-cedd-4b10-9773-43a4fe9473e0}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898E53C6-1EA7-4E71-AE7E-31000F1BA009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898E53C6-1EA7-4E71-AE7E-31000F1BA009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898E53C6-1EA7-4E71-AE7E-31000F1BA009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898E53C6-1EA7-4E71-AE7E-31000F1BA009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD30C5A-AEA8-4C74-8B47-58CBA5477A90}
+	EndGlobalSection
+EndGlobal

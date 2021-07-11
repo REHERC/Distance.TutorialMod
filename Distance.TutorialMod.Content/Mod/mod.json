@@ -1,0 +1,12 @@
+﻿{
+	"FriendlyName": "Tutorial Mod",
+	"Author": "REHERC",
+	"Contact": "...",
+	"ModuleFileName": "Distance.TutorialMod.dll",
+	"Dependencies": [],
+	"RequiredGSLs": [
+		"com.github.reherc/Centrifuge.Distance"
+	],
+	"SkipLoad": false,
+	"Priority": 10
+}
